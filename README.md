@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzraHa
+- 👋 Hi, I’m Azra Hadzihajdarevic
 - 👀 I’m interested in Web & Mobile Development
 - 🌱 I’m currently learning React, Kotlin
 - 💞️ I’m looking to collaborate on innovative team projects!
